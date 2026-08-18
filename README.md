@@ -61,7 +61,7 @@ The segmentation target consists of two regions:
 Clone the repository:
 
 ```
-git clone <YOUR-REPOSITORY-URL>
+git clone <https://github.com/Ramin0036/Lane-Detection-Segmentation/tree/main>
 cd Lane-Segmentation
 
 ```
