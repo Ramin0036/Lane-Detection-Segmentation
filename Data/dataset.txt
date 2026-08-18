@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/rangalamahesh/preprocessed-1
+
+https://www.kaggle.com/datasets/mehmetokuyar/line-segmentation
