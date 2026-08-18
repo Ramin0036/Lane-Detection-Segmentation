@@ -53,44 +53,6 @@ The segmentation target consists of two regions:
 1 → Lane
 
 ```
-
----
-
-## 🚀 Quick Start
-
-Clone the repository:
-
-```
-git clone <https://github.com/Ramin0036/Lane-Detection-Segmentation/tree/main>
-cd Lane-Segmentation
-
-```
-
-Install dependencies:
-
-```
-pip install -r requirements.txt
-
-```
-
-Place the dataset inside:
-
-```
-dataset/
-├── frames/
-└── lane-masks/
-
-```
-
-Then open the notebook:
-
-```
-notebooks/lane_segmentation.ipynb
-
-```
-
-and run the cells sequentially.
-
 ---
 
 ## 📌 Notes
