@@ -4,6 +4,11 @@ A deep learning project for **road lane segmentation** using image segmentation 
 
 The project works with road images and their corresponding binary masks, where the target is to distinguish **lane lines** from the **background**. The dataset contains **4,759 valid image-mask pairs**.
 
+<img width="1763" height="511" alt="image" src="https://github.com/user-attachments/assets/b99c87e7-0163-48b4-9cff-3e3cd9b49ac0" />
+
+<img width="1752" height="606" alt="image" src="https://github.com/user-attachments/assets/df5c49a0-b75c-4236-8f30-064c9d257a19" />
+
+
 ---
 
 ## 📁 Project Structure
