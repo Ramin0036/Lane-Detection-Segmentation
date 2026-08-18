@@ -265,5 +265,3 @@ and run the cells sequentially.
 - The current notebook uses a **90/10 training-validation split**.
 - The dataset contains **4,759 valid image-mask pairs**.
 - The project focuses on **binary lane segmentation**.
-
-  اینو تبدیل به فرمت مارک داون گیت هاب کن. همه متن رو تبدیل کن و بزار تو ی فایل تا دانلود کنم
